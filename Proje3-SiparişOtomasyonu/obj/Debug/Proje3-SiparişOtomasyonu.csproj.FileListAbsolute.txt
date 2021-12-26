@@ -1,0 +1,137 @@
+C:\Users\Black\source\repos\Proje3-SiparişOtomasyonu\Proje3-SiparişOtomasyonu\bin\Debug\Proje3-SiparişOtomasyonu.exe.config
+C:\Users\Black\source\repos\Proje3-SiparişOtomasyonu\Proje3-SiparişOtomasyonu\bin\Debug\Proje3-SiparişOtomasyonu.exe
+C:\Users\Black\source\repos\Proje3-SiparişOtomasyonu\Proje3-SiparişOtomasyonu\bin\Debug\Proje3-SiparişOtomasyonu.pdb
+C:\Users\Black\source\repos\Proje3-SiparişOtomasyonu\Proje3-SiparişOtomasyonu\obj\Debug\Proje3-SiparişOtomasyonu.csproj.AssemblyReference.cache
+C:\Users\Black\source\repos\Proje3-SiparişOtomasyonu\Proje3-SiparişOtomasyonu\obj\Debug\Proje3_SiparişOtomasyonu.Form1.resources
+C:\Users\Black\source\repos\Proje3-SiparişOtomasyonu\Proje3-SiparişOtomasyonu\obj\Debug\Proje3_SiparişOtomasyonu.Properties.Resources.resources
+C:\Users\Black\source\repos\Proje3-SiparişOtomasyonu\Proje3-SiparişOtomasyonu\obj\Debug\Proje3-SiparişOtomasyonu.csproj.GenerateResource.cache
+C:\Users\Black\source\repos\Proje3-SiparişOtomasyonu\Proje3-SiparişOtomasyonu\obj\Debug\Proje3-SiparişOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Black\source\repos\Proje3-SiparişOtomasyonu\Proje3-SiparişOtomasyonu\obj\Debug\Proje3-SiparişOtomasyonu.exe
+C:\Users\Black\source\repos\Proje3-SiparişOtomasyonu\Proje3-SiparişOtomasyonu\obj\Debug\Proje3-SiparişOtomasyonu.pdb
+C:\Users\Black\source\repos\Proje3-SiparişOtomasyonu\Proje3-SiparişOtomasyonu\obj\Debug\Proje3_SiparişOtomasyonu.KayıtForm.resources
+C:\Users\Black\source\repos\Proje3-SiparişOtomasyonu\Proje3-SiparişOtomasyonu\obj\Debug\Proje3_SiparişOtomasyonu.MainForm.resources
+C:\Users\Black\source\repos\Proje3-SiparişOtomasyonu\Proje3-SiparişOtomasyonu\obj\Debug\Proje3_SiparişOtomasyonu.UListeleForm.resources
+C:\Users\Black\source\repos\Proje3-SiparişOtomasyonu\Proje3-SiparişOtomasyonu\obj\Debug\Proje3_SiparişOtomasyonu.GirisForm.resources
+C:\Users\Black\source\repos\Proje3-SiparişOtomasyonu\Proje3-SiparişOtomasyonu\obj\Debug\Proje3_SiparişOtomasyonu.UCikarForm.resources
+C:\Users\Black\source\repos\Proje3-SiparişOtomasyonu\Proje3-SiparişOtomasyonu\obj\Debug\Proje3_SiparişOtomasyonu.UEkleForm.resources
+C:\Users\Black\source\repos\Proje3-SiparişOtomasyonu\Proje3-SiparişOtomasyonu\obj\Debug\Proje3_SiparişOtomasyonu.SilinecekAdet.resources
+C:\Users\Alperen\Desktop\Proje3-SiparişOtomasyonu\Proje3-SiparişOtomasyonu\bin\Debug\Proje3-SiparişOtomasyonu.exe.config
+C:\Users\Alperen\Desktop\Proje3-SiparişOtomasyonu\Proje3-SiparişOtomasyonu\bin\Debug\Proje3-SiparişOtomasyonu.exe
+C:\Users\Alperen\Desktop\Proje3-SiparişOtomasyonu\Proje3-SiparişOtomasyonu\bin\Debug\Proje3-SiparişOtomasyonu.pdb
+C:\Users\Alperen\Desktop\Proje3-SiparişOtomasyonu\Proje3-SiparişOtomasyonu\obj\Debug\Proje3-SiparişOtomasyonu.csproj.AssemblyReference.cache
+C:\Users\Alperen\Desktop\Proje3-SiparişOtomasyonu\Proje3-SiparişOtomasyonu\obj\Debug\Proje3_SiparişOtomasyonu.Form1.resources
+C:\Users\Alperen\Desktop\Proje3-SiparişOtomasyonu\Proje3-SiparişOtomasyonu\obj\Debug\Proje3_SiparişOtomasyonu.GirisForm.resources
+C:\Users\Alperen\Desktop\Proje3-SiparişOtomasyonu\Proje3-SiparişOtomasyonu\obj\Debug\Proje3_SiparişOtomasyonu.KayıtForm.resources
+C:\Users\Alperen\Desktop\Proje3-SiparişOtomasyonu\Proje3-SiparişOtomasyonu\obj\Debug\Proje3_SiparişOtomasyonu.MainForm.resources
+C:\Users\Alperen\Desktop\Proje3-SiparişOtomasyonu\Proje3-SiparişOtomasyonu\obj\Debug\Proje3_SiparişOtomasyonu.Properties.Resources.resources
+C:\Users\Alperen\Desktop\Proje3-SiparişOtomasyonu\Proje3-SiparişOtomasyonu\obj\Debug\Proje3_SiparişOtomasyonu.SilinecekAdet.resources
+C:\Users\Alperen\Desktop\Proje3-SiparişOtomasyonu\Proje3-SiparişOtomasyonu\obj\Debug\Proje3_SiparişOtomasyonu.UCikarForm.resources
+C:\Users\Alperen\Desktop\Proje3-SiparişOtomasyonu\Proje3-SiparişOtomasyonu\obj\Debug\Proje3_SiparişOtomasyonu.UEkleForm.resources
+C:\Users\Alperen\Desktop\Proje3-SiparişOtomasyonu\Proje3-SiparişOtomasyonu\obj\Debug\Proje3_SiparişOtomasyonu.UListeleForm.resources
+C:\Users\Alperen\Desktop\Proje3-SiparişOtomasyonu\Proje3-SiparişOtomasyonu\obj\Debug\Proje3-SiparişOtomasyonu.csproj.GenerateResource.cache
+C:\Users\Alperen\Desktop\Proje3-SiparişOtomasyonu\Proje3-SiparişOtomasyonu\obj\Debug\Proje3-SiparişOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Alperen\Desktop\Proje3-SiparişOtomasyonu\Proje3-SiparişOtomasyonu\obj\Debug\Proje3-SiparişOtomasyonu.exe
+C:\Users\Alperen\Desktop\Proje3-SiparişOtomasyonu\Proje3-SiparişOtomasyonu\obj\Debug\Proje3-SiparişOtomasyonu.pdb
+C:\Users\Alperen\Desktop\Proje3-SiparişOtomasyonu\Proje3-SiparişOtomasyonu\obj\Debug\Proje3_SiparişOtomasyonu.OdemeForm.resources
+C:\Users\Alperen\Desktop\Proje3-SiparişOtomasyonu\Proje3-SiparişOtomasyonu\obj\Debug\Proje3_SiparişOtomasyonu.UrunlerimForm.resources
+C:\Users\Alperen\Desktop\Proje3-SiparişOtomasyonu\Proje3-SiparişOtomasyonu\obj\Debug\Proje3_SiparişOtomasyonu.AdminForm.resources
+C:\Users\Black\Desktop\Proje3-SiparişOtomasyonu\Proje3-SiparişOtomasyonu\bin\Debug\Proje3-SiparişOtomasyonu.exe.config
+C:\Users\Black\Desktop\Proje3-SiparişOtomasyonu\Proje3-SiparişOtomasyonu\bin\Debug\Proje3-SiparişOtomasyonu.exe
+C:\Users\Black\Desktop\Proje3-SiparişOtomasyonu\Proje3-SiparişOtomasyonu\bin\Debug\Proje3-SiparişOtomasyonu.pdb
+C:\Users\Black\Desktop\Proje3-SiparişOtomasyonu\Proje3-SiparişOtomasyonu\obj\Debug\Proje3-SiparişOtomasyonu.csproj.AssemblyReference.cache
+C:\Users\Black\Desktop\Proje3-SiparişOtomasyonu\Proje3-SiparişOtomasyonu\obj\Debug\Proje3_SiparişOtomasyonu.AdminForm.resources
+C:\Users\Black\Desktop\Proje3-SiparişOtomasyonu\Proje3-SiparişOtomasyonu\obj\Debug\Proje3_SiparişOtomasyonu.Form1.resources
+C:\Users\Black\Desktop\Proje3-SiparişOtomasyonu\Proje3-SiparişOtomasyonu\obj\Debug\Proje3_SiparişOtomasyonu.GirisForm.resources
+C:\Users\Black\Desktop\Proje3-SiparişOtomasyonu\Proje3-SiparişOtomasyonu\obj\Debug\Proje3_SiparişOtomasyonu.KayıtForm.resources
+C:\Users\Black\Desktop\Proje3-SiparişOtomasyonu\Proje3-SiparişOtomasyonu\obj\Debug\Proje3_SiparişOtomasyonu.MainForm.resources
+C:\Users\Black\Desktop\Proje3-SiparişOtomasyonu\Proje3-SiparişOtomasyonu\obj\Debug\Proje3_SiparişOtomasyonu.OdemeForm.resources
+C:\Users\Black\Desktop\Proje3-SiparişOtomasyonu\Proje3-SiparişOtomasyonu\obj\Debug\Proje3_SiparişOtomasyonu.Properties.Resources.resources
+C:\Users\Black\Desktop\Proje3-SiparişOtomasyonu\Proje3-SiparişOtomasyonu\obj\Debug\Proje3_SiparişOtomasyonu.SilinecekAdet.resources
+C:\Users\Black\Desktop\Proje3-SiparişOtomasyonu\Proje3-SiparişOtomasyonu\obj\Debug\Proje3_SiparişOtomasyonu.UCikarForm.resources
+C:\Users\Black\Desktop\Proje3-SiparişOtomasyonu\Proje3-SiparişOtomasyonu\obj\Debug\Proje3_SiparişOtomasyonu.UEkleForm.resources
+C:\Users\Black\Desktop\Proje3-SiparişOtomasyonu\Proje3-SiparişOtomasyonu\obj\Debug\Proje3_SiparişOtomasyonu.UListeleForm.resources
+C:\Users\Black\Desktop\Proje3-SiparişOtomasyonu\Proje3-SiparişOtomasyonu\obj\Debug\Proje3_SiparişOtomasyonu.UrunlerimForm.resources
+C:\Users\Black\Desktop\Proje3-SiparişOtomasyonu\Proje3-SiparişOtomasyonu\obj\Debug\Proje3-SiparişOtomasyonu.csproj.GenerateResource.cache
+C:\Users\Black\Desktop\Proje3-SiparişOtomasyonu\Proje3-SiparişOtomasyonu\obj\Debug\Proje3-SiparişOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Black\Desktop\Proje3-SiparişOtomasyonu\Proje3-SiparişOtomasyonu\obj\Debug\Proje3-SiparişOtomasyonu.exe
+C:\Users\Black\Desktop\Proje3-SiparişOtomasyonu\Proje3-SiparişOtomasyonu\obj\Debug\Proje3-SiparişOtomasyonu.pdb
+C:\Users\furka\OneDrive\Masaüstü\Proje3-SiparişOtomasyonu\Proje3-SiparişOtomasyonu\obj\Debug\Proje3-SiparişOtomasyonu.csproj.AssemblyReference.cache
+C:\Users\furka\OneDrive\Masaüstü\Proje3-SiparişOtomasyonu\Proje3-SiparişOtomasyonu\obj\Debug\Proje3_SiparişOtomasyonu.AdminForm.resources
+C:\Users\furka\OneDrive\Masaüstü\Proje3-SiparişOtomasyonu\Proje3-SiparişOtomasyonu\obj\Debug\Proje3_SiparişOtomasyonu.Form1.resources
+C:\Users\furka\OneDrive\Masaüstü\Proje3-SiparişOtomasyonu\Proje3-SiparişOtomasyonu\obj\Debug\Proje3_SiparişOtomasyonu.GirisForm.resources
+C:\Users\furka\OneDrive\Masaüstü\Proje3-SiparişOtomasyonu\Proje3-SiparişOtomasyonu\obj\Debug\Proje3_SiparişOtomasyonu.KayıtForm.resources
+C:\Users\furka\OneDrive\Masaüstü\Proje3-SiparişOtomasyonu\Proje3-SiparişOtomasyonu\obj\Debug\Proje3_SiparişOtomasyonu.MainForm.resources
+C:\Users\furka\OneDrive\Masaüstü\Proje3-SiparişOtomasyonu\Proje3-SiparişOtomasyonu\obj\Debug\Proje3_SiparişOtomasyonu.OdemeForm.resources
+C:\Users\furka\OneDrive\Masaüstü\Proje3-SiparişOtomasyonu\Proje3-SiparişOtomasyonu\obj\Debug\Proje3_SiparişOtomasyonu.Properties.Resources.resources
+C:\Users\furka\OneDrive\Masaüstü\Proje3-SiparişOtomasyonu\Proje3-SiparişOtomasyonu\obj\Debug\Proje3_SiparişOtomasyonu.SilinecekAdet.resources
+C:\Users\furka\OneDrive\Masaüstü\Proje3-SiparişOtomasyonu\Proje3-SiparişOtomasyonu\obj\Debug\Proje3_SiparişOtomasyonu.UCikarForm.resources
+C:\Users\furka\OneDrive\Masaüstü\Proje3-SiparişOtomasyonu\Proje3-SiparişOtomasyonu\obj\Debug\Proje3_SiparişOtomasyonu.UEkleForm.resources
+C:\Users\furka\OneDrive\Masaüstü\Proje3-SiparişOtomasyonu\Proje3-SiparişOtomasyonu\obj\Debug\Proje3_SiparişOtomasyonu.UListeleForm.resources
+C:\Users\furka\OneDrive\Masaüstü\Proje3-SiparişOtomasyonu\Proje3-SiparişOtomasyonu\obj\Debug\Proje3_SiparişOtomasyonu.UrunlerimForm.resources
+C:\Users\furka\OneDrive\Masaüstü\Proje3-SiparişOtomasyonu\Proje3-SiparişOtomasyonu\obj\Debug\Proje3-SiparişOtomasyonu.csproj.GenerateResource.cache
+C:\Users\furka\OneDrive\Masaüstü\Proje3-SiparişOtomasyonu\Proje3-SiparişOtomasyonu\obj\Debug\Proje3-SiparişOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\furka\OneDrive\Masaüstü\Proje3-SiparişOtomasyonu\Proje3-SiparişOtomasyonu\obj\Debug\Proje3-SiparişOtomasyonu.exe
+C:\Users\furka\OneDrive\Masaüstü\Proje3-SiparişOtomasyonu\Proje3-SiparişOtomasyonu\obj\Debug\Proje3-SiparişOtomasyonu.pdb
+C:\Users\furka\OneDrive\Masaüstü\Proje3-SiparişOtomasyonu\Proje3-SiparişOtomasyonu\bin\Debug\Proje3-SiparişOtomasyonu.exe.config
+C:\Users\furka\OneDrive\Masaüstü\Proje3-SiparişOtomasyonu\Proje3-SiparişOtomasyonu\bin\Debug\Proje3-SiparişOtomasyonu.exe
+C:\Users\furka\OneDrive\Masaüstü\Proje3-SiparişOtomasyonu\Proje3-SiparişOtomasyonu\bin\Debug\Proje3-SiparişOtomasyonu.pdb
+C:\Users\furka\OneDrive\Masaüstü\Proje\Proje 2.0\Proje3-SiparişOtomasyonu\Proje3-SiparişOtomasyonu\bin\Debug\Proje3-SiparişOtomasyonu.exe.config
+C:\Users\furka\OneDrive\Masaüstü\Proje\Proje 2.0\Proje3-SiparişOtomasyonu\Proje3-SiparişOtomasyonu\bin\Debug\Proje3-SiparişOtomasyonu.exe
+C:\Users\furka\OneDrive\Masaüstü\Proje\Proje 2.0\Proje3-SiparişOtomasyonu\Proje3-SiparişOtomasyonu\bin\Debug\Proje3-SiparişOtomasyonu.pdb
+C:\Users\furka\OneDrive\Masaüstü\Proje\Proje 2.0\Proje3-SiparişOtomasyonu\Proje3-SiparişOtomasyonu\obj\Debug\Proje3-SiparişOtomasyonu.csproj.AssemblyReference.cache
+C:\Users\furka\OneDrive\Masaüstü\Proje\Proje 2.0\Proje3-SiparişOtomasyonu\Proje3-SiparişOtomasyonu\obj\Debug\Proje3_SiparişOtomasyonu.AdminForm.resources
+C:\Users\furka\OneDrive\Masaüstü\Proje\Proje 2.0\Proje3-SiparişOtomasyonu\Proje3-SiparişOtomasyonu\obj\Debug\Proje3_SiparişOtomasyonu.Form1.resources
+C:\Users\furka\OneDrive\Masaüstü\Proje\Proje 2.0\Proje3-SiparişOtomasyonu\Proje3-SiparişOtomasyonu\obj\Debug\Proje3_SiparişOtomasyonu.GirisForm.resources
+C:\Users\furka\OneDrive\Masaüstü\Proje\Proje 2.0\Proje3-SiparişOtomasyonu\Proje3-SiparişOtomasyonu\obj\Debug\Proje3_SiparişOtomasyonu.KayıtForm.resources
+C:\Users\furka\OneDrive\Masaüstü\Proje\Proje 2.0\Proje3-SiparişOtomasyonu\Proje3-SiparişOtomasyonu\obj\Debug\Proje3_SiparişOtomasyonu.MainForm.resources
+C:\Users\furka\OneDrive\Masaüstü\Proje\Proje 2.0\Proje3-SiparişOtomasyonu\Proje3-SiparişOtomasyonu\obj\Debug\Proje3_SiparişOtomasyonu.OdemeForm.resources
+C:\Users\furka\OneDrive\Masaüstü\Proje\Proje 2.0\Proje3-SiparişOtomasyonu\Proje3-SiparişOtomasyonu\obj\Debug\Proje3_SiparişOtomasyonu.Properties.Resources.resources
+C:\Users\furka\OneDrive\Masaüstü\Proje\Proje 2.0\Proje3-SiparişOtomasyonu\Proje3-SiparişOtomasyonu\obj\Debug\Proje3_SiparişOtomasyonu.SilinecekAdet.resources
+C:\Users\furka\OneDrive\Masaüstü\Proje\Proje 2.0\Proje3-SiparişOtomasyonu\Proje3-SiparişOtomasyonu\obj\Debug\Proje3_SiparişOtomasyonu.UCikarForm.resources
+C:\Users\furka\OneDrive\Masaüstü\Proje\Proje 2.0\Proje3-SiparişOtomasyonu\Proje3-SiparişOtomasyonu\obj\Debug\Proje3_SiparişOtomasyonu.UEkleForm.resources
+C:\Users\furka\OneDrive\Masaüstü\Proje\Proje 2.0\Proje3-SiparişOtomasyonu\Proje3-SiparişOtomasyonu\obj\Debug\Proje3_SiparişOtomasyonu.UListeleForm.resources
+C:\Users\furka\OneDrive\Masaüstü\Proje\Proje 2.0\Proje3-SiparişOtomasyonu\Proje3-SiparişOtomasyonu\obj\Debug\Proje3_SiparişOtomasyonu.UrunlerimForm.resources
+C:\Users\furka\OneDrive\Masaüstü\Proje\Proje 2.0\Proje3-SiparişOtomasyonu\Proje3-SiparişOtomasyonu\obj\Debug\Proje3-SiparişOtomasyonu.csproj.GenerateResource.cache
+C:\Users\furka\OneDrive\Masaüstü\Proje\Proje 2.0\Proje3-SiparişOtomasyonu\Proje3-SiparişOtomasyonu\obj\Debug\Proje3-SiparişOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\furka\OneDrive\Masaüstü\Proje\Proje 2.0\Proje3-SiparişOtomasyonu\Proje3-SiparişOtomasyonu\obj\Debug\Proje3-SiparişOtomasyonu.exe
+C:\Users\furka\OneDrive\Masaüstü\Proje\Proje 2.0\Proje3-SiparişOtomasyonu\Proje3-SiparişOtomasyonu\obj\Debug\Proje3-SiparişOtomasyonu.pdb
+C:\Users\furka\Downloads\Compressed\Proje3-SiparişOtomasyonu\Proje3-SiparişOtomasyonu\bin\Debug\Proje3-SiparişOtomasyonu.exe.config
+C:\Users\furka\Downloads\Compressed\Proje3-SiparişOtomasyonu\Proje3-SiparişOtomasyonu\bin\Debug\Proje3-SiparişOtomasyonu.exe
+C:\Users\furka\Downloads\Compressed\Proje3-SiparişOtomasyonu\Proje3-SiparişOtomasyonu\bin\Debug\Proje3-SiparişOtomasyonu.pdb
+C:\Users\furka\Downloads\Compressed\Proje3-SiparişOtomasyonu\Proje3-SiparişOtomasyonu\obj\Debug\Proje3-SiparişOtomasyonu.csproj.AssemblyReference.cache
+C:\Users\furka\Downloads\Compressed\Proje3-SiparişOtomasyonu\Proje3-SiparişOtomasyonu\obj\Debug\Proje3_SiparişOtomasyonu.AdminForm.resources
+C:\Users\furka\Downloads\Compressed\Proje3-SiparişOtomasyonu\Proje3-SiparişOtomasyonu\obj\Debug\Proje3_SiparişOtomasyonu.Form1.resources
+C:\Users\furka\Downloads\Compressed\Proje3-SiparişOtomasyonu\Proje3-SiparişOtomasyonu\obj\Debug\Proje3_SiparişOtomasyonu.GirisForm.resources
+C:\Users\furka\Downloads\Compressed\Proje3-SiparişOtomasyonu\Proje3-SiparişOtomasyonu\obj\Debug\Proje3_SiparişOtomasyonu.KayıtForm.resources
+C:\Users\furka\Downloads\Compressed\Proje3-SiparişOtomasyonu\Proje3-SiparişOtomasyonu\obj\Debug\Proje3_SiparişOtomasyonu.MainForm.resources
+C:\Users\furka\Downloads\Compressed\Proje3-SiparişOtomasyonu\Proje3-SiparişOtomasyonu\obj\Debug\Proje3_SiparişOtomasyonu.OdemeForm.resources
+C:\Users\furka\Downloads\Compressed\Proje3-SiparişOtomasyonu\Proje3-SiparişOtomasyonu\obj\Debug\Proje3_SiparişOtomasyonu.Properties.Resources.resources
+C:\Users\furka\Downloads\Compressed\Proje3-SiparişOtomasyonu\Proje3-SiparişOtomasyonu\obj\Debug\Proje3_SiparişOtomasyonu.SilinecekAdet.resources
+C:\Users\furka\Downloads\Compressed\Proje3-SiparişOtomasyonu\Proje3-SiparişOtomasyonu\obj\Debug\Proje3_SiparişOtomasyonu.UCikarForm.resources
+C:\Users\furka\Downloads\Compressed\Proje3-SiparişOtomasyonu\Proje3-SiparişOtomasyonu\obj\Debug\Proje3_SiparişOtomasyonu.UEkleForm.resources
+C:\Users\furka\Downloads\Compressed\Proje3-SiparişOtomasyonu\Proje3-SiparişOtomasyonu\obj\Debug\Proje3_SiparişOtomasyonu.UListeleForm.resources
+C:\Users\furka\Downloads\Compressed\Proje3-SiparişOtomasyonu\Proje3-SiparişOtomasyonu\obj\Debug\Proje3_SiparişOtomasyonu.UrunlerimForm.resources
+C:\Users\furka\Downloads\Compressed\Proje3-SiparişOtomasyonu\Proje3-SiparişOtomasyonu\obj\Debug\Proje3-SiparişOtomasyonu.csproj.GenerateResource.cache
+C:\Users\furka\Downloads\Compressed\Proje3-SiparişOtomasyonu\Proje3-SiparişOtomasyonu\obj\Debug\Proje3-SiparişOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\furka\Downloads\Compressed\Proje3-SiparişOtomasyonu\Proje3-SiparişOtomasyonu\obj\Debug\Proje3-SiparişOtomasyonu.exe
+C:\Users\furka\Downloads\Compressed\Proje3-SiparişOtomasyonu\Proje3-SiparişOtomasyonu\obj\Debug\Proje3-SiparişOtomasyonu.pdb
+C:\Users\Black\Desktop\son2\Sipariş Otomasyonu Projesi\Proje3-SiparişOtomasyonu\bin\Debug\Proje3-SiparişOtomasyonu.exe.config
+C:\Users\Black\Desktop\son2\Sipariş Otomasyonu Projesi\Proje3-SiparişOtomasyonu\bin\Debug\Proje3-SiparişOtomasyonu.exe
+C:\Users\Black\Desktop\son2\Sipariş Otomasyonu Projesi\Proje3-SiparişOtomasyonu\bin\Debug\Proje3-SiparişOtomasyonu.pdb
+C:\Users\Black\Desktop\son2\Sipariş Otomasyonu Projesi\Proje3-SiparişOtomasyonu\obj\Debug\Proje3-SiparişOtomasyonu.csproj.AssemblyReference.cache
+C:\Users\Black\Desktop\son2\Sipariş Otomasyonu Projesi\Proje3-SiparişOtomasyonu\obj\Debug\Proje3_SiparişOtomasyonu.AdminForm.resources
+C:\Users\Black\Desktop\son2\Sipariş Otomasyonu Projesi\Proje3-SiparişOtomasyonu\obj\Debug\Proje3_SiparişOtomasyonu.Form1.resources
+C:\Users\Black\Desktop\son2\Sipariş Otomasyonu Projesi\Proje3-SiparişOtomasyonu\obj\Debug\Proje3_SiparişOtomasyonu.GirisForm.resources
+C:\Users\Black\Desktop\son2\Sipariş Otomasyonu Projesi\Proje3-SiparişOtomasyonu\obj\Debug\Proje3_SiparişOtomasyonu.KayıtForm.resources
+C:\Users\Black\Desktop\son2\Sipariş Otomasyonu Projesi\Proje3-SiparişOtomasyonu\obj\Debug\Proje3_SiparişOtomasyonu.MainForm.resources
+C:\Users\Black\Desktop\son2\Sipariş Otomasyonu Projesi\Proje3-SiparişOtomasyonu\obj\Debug\Proje3_SiparişOtomasyonu.OdemeForm.resources
+C:\Users\Black\Desktop\son2\Sipariş Otomasyonu Projesi\Proje3-SiparişOtomasyonu\obj\Debug\Proje3_SiparişOtomasyonu.Properties.Resources.resources
+C:\Users\Black\Desktop\son2\Sipariş Otomasyonu Projesi\Proje3-SiparişOtomasyonu\obj\Debug\Proje3_SiparişOtomasyonu.SilinecekAdet.resources
+C:\Users\Black\Desktop\son2\Sipariş Otomasyonu Projesi\Proje3-SiparişOtomasyonu\obj\Debug\Proje3_SiparişOtomasyonu.UCikarForm.resources
+C:\Users\Black\Desktop\son2\Sipariş Otomasyonu Projesi\Proje3-SiparişOtomasyonu\obj\Debug\Proje3_SiparişOtomasyonu.UEkleForm.resources
+C:\Users\Black\Desktop\son2\Sipariş Otomasyonu Projesi\Proje3-SiparişOtomasyonu\obj\Debug\Proje3_SiparişOtomasyonu.UListeleForm.resources
+C:\Users\Black\Desktop\son2\Sipariş Otomasyonu Projesi\Proje3-SiparişOtomasyonu\obj\Debug\Proje3_SiparişOtomasyonu.UrunlerimForm.resources
+C:\Users\Black\Desktop\son2\Sipariş Otomasyonu Projesi\Proje3-SiparişOtomasyonu\obj\Debug\Proje3-SiparişOtomasyonu.csproj.GenerateResource.cache
+C:\Users\Black\Desktop\son2\Sipariş Otomasyonu Projesi\Proje3-SiparişOtomasyonu\obj\Debug\Proje3-SiparişOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Black\Desktop\son2\Sipariş Otomasyonu Projesi\Proje3-SiparişOtomasyonu\obj\Debug\Proje3-SiparişOtomasyonu.exe
+C:\Users\Black\Desktop\son2\Sipariş Otomasyonu Projesi\Proje3-SiparişOtomasyonu\obj\Debug\Proje3-SiparişOtomasyonu.pdb

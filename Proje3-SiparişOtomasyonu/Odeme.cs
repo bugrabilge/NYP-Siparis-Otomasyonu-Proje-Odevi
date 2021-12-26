@@ -1,0 +1,16 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Proje3_SiparişOtomasyonu
+{
+    public abstract class Odeme
+    {
+        public decimal Miktar { get; set; }
+
+        public abstract void Yetkili();
+
+    }
+}
